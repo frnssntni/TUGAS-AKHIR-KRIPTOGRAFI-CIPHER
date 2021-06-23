@@ -39,7 +39,7 @@ public class Feistel_Form extends javax.swing.JFrame {
         NO_Rounds = new javax.swing.JTextField();
         jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
+        
 
         javax.swing.GroupLayout jDesktopPane1Layout = new javax.swing.GroupLayout(jDesktopPane1);
         jDesktopPane1.setLayout(jDesktopPane1Layout);
@@ -102,8 +102,7 @@ public class Feistel_Form extends javax.swing.JFrame {
 
         jLabel4.setText("Cipher text :");
 
-        jLabel5.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel5.setText("Made by : Amal Assem ");
+        
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -165,7 +164,7 @@ public class Feistel_Form extends javax.swing.JFrame {
                     .addComponent(Decrypt)
                     .addComponent(Clear))
                 .addGap(18, 18, 18)
-                .addComponent(jLabel5)
+                
                 .addContainerGap(24, Short.MAX_VALUE))
         );
 
@@ -277,6 +276,6 @@ public class Feistel_Form extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
+   
     // End of variables declaration//GEN-END:variables
 }
