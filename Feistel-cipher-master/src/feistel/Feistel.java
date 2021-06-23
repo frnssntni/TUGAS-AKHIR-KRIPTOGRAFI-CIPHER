@@ -1,9 +1,4 @@
-/*
-*Programmer : Amal Assem Dora .
-*experience :2 Years in Java programming language .
-*Education : fourth year in computer science departement in faculty of electronic engineering (2019/2020).
-*Feistel code.
- */
+
 package feistel;
 
 public class Feistel {
